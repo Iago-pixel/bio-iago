@@ -1,0 +1,40 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    background-color: #E4FDE1;
+}
+
+header {
+    background-color:#1F5673;
+}
+
+header img {
+    margin: 10px;
+}
+  
+h1 {
+    right:20px;
+    position:absolute;
+    font-style: italic;
+    display: inline;
+    color: cornsilk;
+}
+
+article section {
+    margin: 40px;
+}
+
+ol li {
+    margin: 50px;
+}
+
+.img {
+    text-align: center;
+}
+
+nav {
+    margin: 40px;
+}
+
+nav ul li {
+    margin: 10px;
+}
